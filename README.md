@@ -72,22 +72,4 @@ See official Tableau documentation for creating bridge containers on Linux
 https://help.tableau.com/current/online/en-us/to_bridge_linux_install.htm
 
 
-### Release Notes
-[Release Notes](RELEASE_NOTES.md)
-
-<br><br><br>
-### User interface screenshots
-Home
-
-![Home](assets/home3.png)
-
-Command-line Interface
-
-![CLI](assets/cli2.png)__
-
-Build Bridge Container Images
-![Build](assets/build.png)
-
-Analyze Logs
-![BridgeCTL Logs](assets/logs.png)
 

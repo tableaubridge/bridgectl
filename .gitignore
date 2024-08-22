@@ -1,0 +1,32 @@
+# intellij, vscode
+.idea/
+.vscode/
+
+# build artifacts, mac
+__pycache__/
+*.pyc
+.DS_Store
+
+# virtual env, env vars
+venv
+.envrc
+.env
+
+# java
+*.class
+
+# App folders
+log/
+buildimg/*
+config/*
+/pipeline/build/*
+/config/k8s_onboard/*
+/deployment/deploy_webapp/tmp/*
+temp-creds/
+*.zip
+*.cmd
+*.rpm
+*.pem
+.run/
+scratch/*
+rcm_admin/config/*

@@ -88,7 +88,7 @@ Analyze Logs
 ![BridgeCTL Logs](assets/logs.png)
 
 Monitor Bridge Agent Health
-![Monitor Bridge](assets/monitor_screenshot.png)
+![Monitor Bridge](assets/monitor_screenshot2.png)
 
 Autoscale Bridge Pods in Kubernetes
 ![Monitor Bridge](assets/autoscale.png)

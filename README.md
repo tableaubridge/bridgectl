@@ -94,4 +94,4 @@ Autoscale Bridge Pods in Kubernetes
 ![Monitor Bridge](assets/autoscale.png)
 
 Example Dockerfile Scripts
-![Example Scripts](assets/examples.png)
+![Example Scripts](assets/examples2.png)

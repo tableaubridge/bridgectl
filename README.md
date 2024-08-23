@@ -90,3 +90,6 @@ Analyze Logs
 Monitor Bridge Agent Health
 ![Monitor Bridge](assets/monitor_screenshot.png)
 
+Autoscale Bridge Pods in Kubernetes
+![Monitor Bridge](assets/autoscale.png)
+

@@ -1,6 +1,3 @@
-# BridgeCTL
-BridgeCTL is a command-line utility for Tableau Bridge
-
 
 # Tableau BridgeCTL
 BridgeCTL is a utility for Tableau Bridge Linux Containers.
@@ -18,10 +15,10 @@ BridgeCTL can be installed on Linux, Windows or Mac.
 ### Setup
 BridgeCTL is easy to install. Just download and run the bridgectl_setup.py script using the following commands:
 
-```
-curl -OL https://github.com/tableaubridge/bridgectl/releases/download/setup/bridgectl_setup.py
-python bridgectl_setup.py
-```
+
+1) Download bridge_download.zip from the latest [release](https://github.com/tableau/bridgectl/releases)
+2) unzip and copy the two files into the folder where you want to install bridgectl
+3) run `python bridgectl_setup.py`
 
 
 ### 
@@ -71,5 +68,28 @@ This repo contains utilities and source code example files for creating and runn
 See official Tableau documentation for creating bridge containers on Linux
 https://help.tableau.com/current/online/en-us/to_bridge_linux_install.htm
 
+### Old Install instructions
+~~
+curl -OL https://github.com/tableau/bridgectl/releases/download/setup/bridgectl_setup.py
+python bridgectl_setup.py
+~~
 
+### Release Notes
+[Release Notes](RELEASE_NOTES.md)
+
+<br><br><br>
+### User interface screenshots
+Home
+
+![Home](assets/home3.png)
+
+Command-line Interface
+
+![CLI](assets/cli2.png)__
+
+Build Bridge Container Images
+![Build](assets/build.png)
+
+Analyze Logs
+![BridgeCTL Logs](assets/logs.png)
 

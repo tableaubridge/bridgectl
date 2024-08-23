@@ -93,3 +93,5 @@ Monitor Bridge Agent Health
 Autoscale Bridge Pods in Kubernetes
 ![Monitor Bridge](assets/autoscale.png)
 
+Example Dockerfile Scripts
+![Example Scripts](assets/examples.png)

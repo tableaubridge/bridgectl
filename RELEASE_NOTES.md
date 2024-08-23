@@ -1,5 +1,8 @@
 # Release notes
 
+### Version 2.2.62 (August 22, 2024)
+- Improvements to Example Scripts
+- Add screenshots to readme.md
 
 ### Version 2.2.57 (August 20, 2024)
 - New menu
